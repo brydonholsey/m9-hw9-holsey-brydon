@@ -1,0 +1,23 @@
+{
+  "name": "m9-hw9-holsey-brydon",
+  "version": "1.0.0",
+  "description": "Learning ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brydonholsey/m9-hw9-holsey-brydon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brydonholsey/m9-hw9-holsey-brydon/issues"
+  },
+  "homepage": "https://github.com/brydonholsey/m9-hw9-holsey-brydon#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
